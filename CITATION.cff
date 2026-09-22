@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "QuPath Adaptive Whole-Tissue Measurement"
+message: "If you use this software, please cite the software release and acknowledge the scientific workflow provenance."
+type: software
+authors:
+  - family-names: Stringer
+    given-names: Cherie
+    orcid: ""
+    website: "https://github.com/StringerCA"
+  - name: "SANGHA Research Systems"
+    website: "https://sangharesearch.systems/"
+repository-code: "https://github.com/brsjjdrby8-source/qupath-adaptive-whole-tissue"
+url: "https://sangharesearch.systems/projects/qupath-adaptive-whole-tissue.html"
+license: GPL-3.0-or-later
+version: 0.1.0-alpha
