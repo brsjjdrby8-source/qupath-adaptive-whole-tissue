@@ -1,0 +1,9 @@
+{
+  "positive_area_um2": 100.0,
+  "negative_area_um2": 900.0,
+  "positive_percent": 10.0,
+  "chunks_completed": 8,
+  "chunks_failed": 0,
+  "total_chunks": 8,
+  "chunk_size_um": 2000.0
+}
